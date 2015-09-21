@@ -1,3 +1,4 @@
 config.json filter=git-crypt diff=git-crypt
 testdir/* filter=git-crypt diff=git-crypt
 testdir/testsub/* filter=git-crypt diff=git-crypt
+testdir/testsub/xy/* filter=git-crypt diff=git-crypt
